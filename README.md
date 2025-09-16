@@ -1,85 +1,56 @@
-# Modern Portfolio Template 🚀
+# 🌐 Adrash Bhatia — Portfolio
 
-A sleek, modern portfolio template built with React, Vite, and Framer Motion. This template features a stunning black and white design with smooth animations and a polished user interface.
-
-## ✨ Features
-
-- 🎨 Minimalist black and white design
-- ⚡ Built with React + Vite for lightning-fast performance
-- 🎭 Smooth animations powered by Framer Motion
-- 📱 Fully responsive design
-- 🌙 Dark mode optimized
-- 🎯 SEO friendly
-- 🚀 Modern development practices
-- 📝 Blog section included
-- 💼 Project showcase
-- 📬 Contact form
-- 🔍 Easy to customize
-
-## 🛠️ Tech Stack
-
-- React
-- Vite
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- Lucide Icons
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Resorcinolworks/PortfolioTemplate.git
-```
-
-2. Install dependencies:
-```bash
-cd PortfolioTemplate
-npm install
-```
-
-3. Start the development server:
-```bash
-npm run dev
-```
-
-4. Build for production:
-```bash
-npm run build
-```
-
-## 🎨 Customization
-
-1. Update personal information in the configuration files
-2. Modify the color scheme in `tailwind.config.js`
-3. Add your projects in the projects section
-4. Customize animations in the components
-5. Add your blog posts in the blog section
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Lucide Icons](https://lucide.dev/)
+Welcome to my **personal portfolio website**!  
+This project is built to showcase my **skills, projects, certifications, and professional journey** with a **modern, minimal, and responsive design**.  
 
 ---
 
-Made with ❤️ by [Ayush Raghuvanshi](https://github.com/Resorcinolworks)
+## 📊 JSON Snapshot
 
-Feel free to star ⭐ this repository if you find it useful!
+```json
+{
+  "name": "Adrash Bhatia",
+  "username": "@adrashbhatia",
+  "role": "Software Developer | AI & Full-Stack Enthusiast",
+  "location": "Pakistan",
+  "status": "Open to Opportunities",
+  "skills": {
+    "languages": ["Java", "TypeScript", "Python", "C++"],
+    "frontend": ["React", "Vite", "Tailwind CSS", "Framer Motion"],
+    "backend": ["Spring Boot", "Node.js"],
+    "databases": ["MySQL", "PostgreSQL", "Firebase"],
+    "tools": ["GitHub", "VS Code", "Android Studio", "Postman"]
+  },
+  "projects": [
+    {
+      "name": "PropLex-AI",
+      "description": "Hybrid propaganda detection and rewriting system integrating DFA-based engine with AI (Gemini).",
+      "status": "Research Prototype"
+    },
+    {
+      "name": "SmartAssign",
+      "description": "Workforce assignment optimization using bipartite graph matching (CCP project).",
+      "status": "Finalized"
+    },
+    {
+      "name": "Learning Management System (LMS)",
+      "description": "Custom-built LMS with attendance, grading, and student/teacher/admin flows.",
+      "status": "In Progress"
+    },
+    {
+      "name": "SEO Automation Tool",
+      "description": "All-in-one AI-powered SEO automation for beginners & small businesses.",
+      "status": "Development"
+    }
+  ],
+  "certifications": [
+    "Google Digital Marketing & E-commerce Certificate",
+    "Responsive Web Design (freeCodeCamp)",
+    "AI & Data Science short courses"
+  ],
+  "contact": {
+    "email": "adrashbhatia.dev@gmail.com",
+    "linkedin": "https://linkedin.com/in/adrashbhatia",
+    "github": "https://github.com/adrashbhatia"
+  }
+}
