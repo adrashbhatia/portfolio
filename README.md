@@ -78,6 +78,7 @@ npm run dev
 npm run build
 npm run preview
 
+---
 
 🎨 Customization
 
@@ -90,7 +91,7 @@ Customize theme colors via tailwind.config.js
 Modify animations in components
 
 Add blog posts in the blog section
-
+---
 📸 Screenshots
 
 Home Page
@@ -104,9 +105,12 @@ Projects Showcase
 Contact Form
 <img width="980" height="675" alt="image" src="https://github.com/user-attachments/assets/3f8ca729-a0e8-455b-b3e5-691cf67794b4" />
 
-
+---
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adrashbhatia&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrashbhatia&layout=compact&theme=radical" alt="Top Languages" height="160"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=adrashbhatia&theme=radical&border_radius=10" alt="GitHub Streak" /> </p>
+
+---
+
 📬 Contact
 
 📧 Email: adrashbhatia.dev@gmail.com
@@ -115,10 +119,14 @@ Contact Form
 
 💻 GitHub: github.com/adrashbhatia
 
+---
+
 📝 License
 
 This project is licensed under the MIT License — see the LICENSE
  file for details.
+
+---
 
 ⭐ If you like this portfolio, don’t forget to star this repo and share it!
 
