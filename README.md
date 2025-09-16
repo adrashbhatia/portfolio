@@ -1,85 +1,129 @@
-# Modern Portfolio Template 🚀
+# 🚀 Modern Portfolio — Adrash Bhatia  
 
-A sleek, modern portfolio template built with React, Vite, and Framer Motion. This template features a stunning black and white design with smooth animations and a polished user interface.
-
-## ✨ Features
-
-- 🎨 Minimalist black and white design
-- ⚡ Built with React + Vite for lightning-fast performance
-- 🎭 Smooth animations powered by Framer Motion
-- 📱 Fully responsive design
-- 🌙 Dark mode optimized
-- 🎯 SEO friendly
-- 🚀 Modern development practices
-- 📝 Blog section included
-- 💼 Project showcase
-- 📬 Contact form
-- 🔍 Easy to customize
-
-## 🛠️ Tech Stack
-
-- React
-- Vite
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- Lucide Icons
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Resorcinolworks/PortfolioTemplate.git
-```
-
-2. Install dependencies:
-```bash
-cd PortfolioTemplate
-npm install
-```
-
-3. Start the development server:
-```bash
-npm run dev
-```
-
-4. Build for production:
-```bash
-npm run build
-```
-
-## 🎨 Customization
-
-1. Update personal information in the configuration files
-2. Modify the color scheme in `tailwind.config.js`
-3. Add your projects in the projects section
-4. Customize animations in the components
-5. Add your blog posts in the blog section
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Lucide Icons](https://lucide.dev/)
+[![React](https://img.shields.io/badge/React-18.3-blue?logo=react)](https://react.dev/)  
+[![Vite](https://img.shields.io/badge/Vite-5.4-purple?logo=vite)](https://vitejs.dev/)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue?logo=typescript)](https://www.typescriptlang.org/)  
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38BDF8?logo=tailwind-css)](https://tailwindcss.com/)  
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.9-pink?logo=framer)](https://www.framer.com/motion/)  
+[![EmailJS](https://img.shields.io/badge/EmailJS-Integration-orange?logo=gmail)](https://www.emailjs.com/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)  
 
 ---
 
-Made with ❤️ by [Ayush Raghuvanshi](https://github.com/Resorcinolworks)
+## ✨ Overview  
 
-Feel free to star ⭐ this repository if you find it useful!
+This is my **personal portfolio website**, designed to showcase my **skills, projects, certifications, and professional journey**.  
+Built with **modern technologies**, optimized for performance, and styled with a **clean, minimalist UI + smooth animations**.  
+
+🌍 **Live Demo:** [adrashbhatia.github.io/portfolio](https://adrashbhatia.github.io/portfolio)  
+
+---
+
+## ⚡ Features  
+
+- 🎨 **Minimalist Modern Design** (black & white aesthetics)  
+- ⚡ **Super-fast** build with **Vite + React**  
+- 🎭 **Framer Motion** animations for smooth UI/UX  
+- 📱 Fully **responsive** across devices  
+- 💼 Project showcase with **live/demo links**  
+- 📝 Blog section included  
+- 📬 Contact form with **EmailJS integration**  
+- 🔍 **SEO optimized**  
+- 🌙 Dark mode optimized  
+- 🔧 Modular, developer-friendly structure  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend:** React, Vite, TypeScript  
+- **Styling:** Tailwind CSS, Tailwind Animate  
+- **Animations:** Framer Motion  
+- **Icons:** Lucide Icons  
+- **Forms:** React Hook Form + Zod  
+- **Integration:** EmailJS  
+- **Deployment:** GitHub Pages  
+
+---
+
+
+---
+
+## 🎨 Customization  
+
+- Update your details in `src/data/config.ts`  
+- Add projects in `src/data/projects.ts`  
+- Customize theme colors via `tailwind.config.js`  
+- Modify animations in `components/`  
+- Add blog posts in the blog section  
+
+---
+
+## 📸 Screenshots  
+
+### 🏠 Home Page  
+<p align="center">
+  <img width="800" src="https://github.com/user-attachments/assets/ef711d7b-83dc-4877-81d0-7bc6b28a753c" alt="Home Page" />
+</p>  
+
+### 💼 Projects Showcase  
+<p align="center">
+  <img width="800" src="https://github.com/user-attachments/assets/311c61d9-b23c-45fe-bc1c-a7692f58c845" alt="Projects Showcase" />
+</p>  
+
+### 📬 Contact Form  
+<p align="center">
+  <img width="800" src="https://github.com/user-attachments/assets/3f8ca729-a0e8-455b-b3e5-691cf67794b4" alt="Contact Form" />
+</p>  
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adrashbhatia&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrashbhatia&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adrashbhatia&theme=radical&border_radius=10" alt="GitHub Streak" />
+</p>  
+
+---
+
+## 📬 Contact  
+
+- 📧 **Email:** [adrashbhatia.dev@gmail.com](mailto:adrashbhatia.dev@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/adrashbhatia](https://linkedin.com/in/adrashbhatia)  
+- 💻 **GitHub:** [github.com/adrashbhatia](https://github.com/adrashbhatia)  
+
+---
+
+## 📝 License  
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.  
+
+---
+
+⭐ If you like this portfolio, don’t forget to **star this repo** and share it!  
+
+---
+# 1. Clone the repository
+git clone https://github.com/adrashbhatia/portfolio.git
+
+# 2. Move inside the project
+cd portfolio
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
+---
+
+
+
+Made with ❤️ by **Adrash Bhatia**  
