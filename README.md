@@ -50,19 +50,25 @@ Built with **modern technologies**, optimized for performance, and styled with a
 
 ```bash
 portfolio/
-│── public/          # Static assets
-│── src/
+├── public/          # Static assets
+├── src/
 │   ├── assets/      # Images & icons
 │   ├── components/  # Reusable UI components
 │   ├── pages/       # Pages (Home, Projects, Blog, Contact)
 │   ├── hooks/       # Custom hooks
 │   ├── data/        # Config, projects, blog, etc.
 │   └── App.tsx      # Main entry
-│── tailwind.config.js
-│── vite.config.ts
-│── package.json
+├── tailwind.config.js
+├── vite.config.ts
+└── package.json
 
 
+
+---
+
+## 🚀 Installation & Setup  
+
+```bash
 # 1. Clone the repository
 git clone https://github.com/adrashbhatia/portfolio.git
 
@@ -75,8 +81,12 @@ npm install
 # 4. Start the development server
 npm run dev
 
+# Build for production
 npm run build
+
+# Preview production build
 npm run preview
+
 
 ---
 
@@ -85,7 +95,7 @@ npm run preview
 - Update your details in `src/data/config.ts`  
 - Add projects in `src/data/projects.ts`  
 - Customize theme colors via `tailwind.config.js`  
-- Modify animations in components  
+- Modify animations in `components/`  
 - Add blog posts in the blog section  
 
 ---
@@ -93,32 +103,32 @@ npm run preview
 ## 📸 Screenshots  
 
 ### 🏠 Home Page  
-<p align="center">
-  <img width="800" src="https://github.com/user-attachments/assets/ef711d7b-83dc-4877-81d0-7bc6b28a753c" alt="Home Page" />
-</p>
+<p align="center">  
+  <img width="800" src="https://github.com/user-attachments/assets/ef711d7b-83dc-4877-81d0-7bc6b28a753c" alt="Home Page" />  
+</p>  
 
 ### 💼 Projects Showcase  
-<p align="center">
-  <img width="800" src="https://github.com/user-attachments/assets/311c61d9-b23c-45fe-bc1c-a7692f58c845" alt="Projects Showcase" />
-</p>
+<p align="center">  
+  <img width="800" src="https://github.com/user-attachments/assets/311c61d9-b23c-45fe-bc1c-a7692f58c845" alt="Projects Showcase" />  
+</p>  
 
 ### 📬 Contact Form  
-<p align="center">
-  <img width="800" src="https://github.com/user-attachments/assets/3f8ca729-a0e8-455b-b3e5-691cf67794b4" alt="Contact Form" />
-</p>
+<p align="center">  
+  <img width="800" src="https://github.com/user-attachments/assets/3f8ca729-a0e8-455b-b3e5-691cf67794b4" alt="Contact Form" />  
+</p>  
 
 ---
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrashbhatia&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrashbhatia&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=adrashbhatia&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrashbhatia&layout=compact&theme=radical" alt="Top Languages" height="160"/>  
+</p>  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adrashbhatia&theme=radical&border_radius=10" alt="GitHub Streak" />
-</p>
+<p align="center">  
+  <img src="https://streak-stats.demolab.com?user=adrashbhatia&theme=radical&border_radius=10" alt="GitHub Streak" />  
+</p>  
 
 ---
 
