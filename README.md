@@ -46,29 +46,65 @@ Built with **modern technologies**, optimized for performance, and styled with a
 
 ---
 
-## 📂 Project Structure  
-
-```bash
-portfolio/
-├── public/          # Static assets
-├── src/
-│   ├── assets/      # Images & icons
-│   ├── components/  # Reusable UI components
-│   ├── pages/       # Pages (Home, Projects, Blog, Contact)
-│   ├── hooks/       # Custom hooks
-│   ├── data/        # Config, projects, blog, etc.
-│   └── App.tsx      # Main entry
-├── tailwind.config.js
-├── vite.config.ts
-└── package.json
-
-
 
 ---
 
-## 🚀 Installation & Setup  
+## 🎨 Customization  
 
-```bash
+- Update your details in `src/data/config.ts`  
+- Add projects in `src/data/projects.ts`  
+- Customize theme colors via `tailwind.config.js`  
+- Modify animations in `components/`  
+- Add blog posts in the blog section  
+
+---
+
+## 📸 Screenshots  
+
+### 🏠 Home Page  
+<p align="center">
+  <img width="800" src="https://github.com/user-attachments/assets/ef711d7b-83dc-4877-81d0-7bc6b28a753c" alt="Home Page" />
+</p>  
+
+### 💼 Projects Showcase  
+<p align="center">
+  <img width="800" src="https://github.com/user-attachments/assets/311c61d9-b23c-45fe-bc1c-a7692f58c845" alt="Projects Showcase" />
+</p>  
+
+### 📬 Contact Form  
+<p align="center">
+  <img width="800" src="https://github.com/user-attachments/assets/3f8ca729-a0e8-455b-b3e5-691cf67794b4" alt="Contact Form" />
+</p>  
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adrashbhatia&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrashbhatia&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adrashbhatia&theme=radical&border_radius=10" alt="GitHub Streak" />
+</p>  
+
+---
+
+## 📬 Contact  
+
+- 📧 **Email:** [adrashbhatia.dev@gmail.com](mailto:adrashbhatia.dev@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/adrashbhatia](https://linkedin.com/in/adrashbhatia)  
+- 💻 **GitHub:** [github.com/adrashbhatia](https://github.com/adrashbhatia)  
+
+---
+
+## 📝 License  
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.  
+
+---
+
+⭐ If you like this portfolio, don’t forget to **star this repo** and share it!  
+
+---
 # 1. Clone the repository
 git clone https://github.com/adrashbhatia/portfolio.git
 
@@ -86,66 +122,8 @@ npm run build
 
 # Preview production build
 npm run preview
-
-
 ---
 
-## 🎨 Customization  
 
-- Update your details in `src/data/config.ts`  
-- Add projects in `src/data/projects.ts`  
-- Customize theme colors via `tailwind.config.js`  
-- Modify animations in `components/`  
-- Add blog posts in the blog section  
 
----
-
-## 📸 Screenshots  
-
-### 🏠 Home Page  
-<p align="center">  
-  <img width="800" src="https://github.com/user-attachments/assets/ef711d7b-83dc-4877-81d0-7bc6b28a753c" alt="Home Page" />  
-</p>  
-
-### 💼 Projects Showcase  
-<p align="center">  
-  <img width="800" src="https://github.com/user-attachments/assets/311c61d9-b23c-45fe-bc1c-a7692f58c845" alt="Projects Showcase" />  
-</p>  
-
-### 📬 Contact Form  
-<p align="center">  
-  <img width="800" src="https://github.com/user-attachments/assets/3f8ca729-a0e8-455b-b3e5-691cf67794b4" alt="Contact Form" />  
-</p>  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=adrashbhatia&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrashbhatia&layout=compact&theme=radical" alt="Top Languages" height="160"/>  
-</p>  
-
-<p align="center">  
-  <img src="https://streak-stats.demolab.com?user=adrashbhatia&theme=radical&border_radius=10" alt="GitHub Streak" />  
-</p>  
-
----
-
-## 📬 Contact  
-
-📧 **Email:** adrashbhatia.dev@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/adrashbhatia](https://linkedin.com/in/adrashbhatia)  
-💻 **GitHub:** [github.com/adrashbhatia](https://github.com/adrashbhatia)  
-
----
-
-## 📝 License  
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.  
-
----
-
-⭐ If you like this portfolio, don’t forget to **star this repo** and share it!  
-
-Made with ❤️ by [Adrash Bhatia](https://github.com/adrashbhatia)  
+Made with ❤️ by **Adrash Bhatia**  
