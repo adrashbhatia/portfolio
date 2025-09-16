@@ -80,54 +80,62 @@ npm run preview
 
 ---
 
-🎨 Customization
+## 🎨 Customization  
 
-Update your details in src/data/config.ts
-
-Add projects in src/data/projects.ts
-
-Customize theme colors via tailwind.config.js
-
-Modify animations in components
-
-Add blog posts in the blog section
----
-📸 Screenshots
-
-Home Page
-<img width="1366" height="682" alt="image" src="https://github.com/user-attachments/assets/ef711d7b-83dc-4877-81d0-7bc6b28a753c" />
-
-
-Projects Showcase
-<img width="1365" height="669" alt="image" src="https://github.com/user-attachments/assets/311c61d9-b23c-45fe-bc1c-a7692f58c845" />
-
-
-Contact Form
-<img width="980" height="675" alt="image" src="https://github.com/user-attachments/assets/3f8ca729-a0e8-455b-b3e5-691cf67794b4" />
-
----
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adrashbhatia&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrashbhatia&layout=compact&theme=radical" alt="Top Languages" height="160"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=adrashbhatia&theme=radical&border_radius=10" alt="GitHub Streak" /> </p>
+- Update your details in `src/data/config.ts`  
+- Add projects in `src/data/projects.ts`  
+- Customize theme colors via `tailwind.config.js`  
+- Modify animations in components  
+- Add blog posts in the blog section  
 
 ---
 
-📬 Contact
+## 📸 Screenshots  
 
-📧 Email: adrashbhatia.dev@gmail.com
+### 🏠 Home Page  
+<p align="center">
+  <img width="800" src="https://github.com/user-attachments/assets/ef711d7b-83dc-4877-81d0-7bc6b28a753c" alt="Home Page" />
+</p>
 
-🔗 LinkedIn: linkedin.com/in/adrashbhatia
+### 💼 Projects Showcase  
+<p align="center">
+  <img width="800" src="https://github.com/user-attachments/assets/311c61d9-b23c-45fe-bc1c-a7692f58c845" alt="Projects Showcase" />
+</p>
 
-💻 GitHub: github.com/adrashbhatia
+### 📬 Contact Form  
+<p align="center">
+  <img width="800" src="https://github.com/user-attachments/assets/3f8ca729-a0e8-455b-b3e5-691cf67794b4" alt="Contact Form" />
+</p>
 
 ---
 
-📝 License
+## 📊 GitHub Stats  
 
-This project is licensed under the MIT License — see the LICENSE
- file for details.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adrashbhatia&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrashbhatia&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adrashbhatia&theme=radical&border_radius=10" alt="GitHub Streak" />
+</p>
 
 ---
 
-⭐ If you like this portfolio, don’t forget to star this repo and share it!
+## 📬 Contact  
 
-Made with ❤️ by Adrash Bhatia
+📧 **Email:** adrashbhatia.dev@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/adrashbhatia](https://linkedin.com/in/adrashbhatia)  
+💻 **GitHub:** [github.com/adrashbhatia](https://github.com/adrashbhatia)  
+
+---
+
+## 📝 License  
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.  
+
+---
+
+⭐ If you like this portfolio, don’t forget to **star this repo** and share it!  
+
+Made with ❤️ by [Adrash Bhatia](https://github.com/adrashbhatia)  
